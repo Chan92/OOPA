@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+*.user
+*.filters
+*.vcxproj
+*.pdb
+*.idb
+*.tlog
+*.lastbuildstate
+*.log
+*.sln
+*.ilk
+*.ipch
+*.db
+*.suo
